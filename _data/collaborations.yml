@@ -1,34 +1,34 @@
 - id: mohit-paras-jain
   pair_id: mohit-paras-jain
-  faculty_id: paras-jain
+  collaborator_id: paras-jain
   focus: Epigenetic memory and epithelial–mesenchymal plasticity
   coadvised_students: []
   grants: []
 
 - id: mohit-jason-george
   pair_id: mohit-jason-george
-  faculty_id: jason-george
+  collaborator_id: jason-george
   focus: Regulatory-network and spatial models of cancer-cell plasticity
   coadvised_students: []
   grants: []
 
 - id: mohit-anish-thomas
   pair_id: mohit-anish-thomas
-  faculty_id: anish-thomas
+  collaborator_id: anish-thomas
   focus: Small-cell lung cancer progression, metastasis, and therapy response
   coadvised_students: []
   grants: []
 
 - id: mohit-jyothi-prabhu
   pair_id: mohit-jyothi-prabhu
-  faculty_id: jyothi-prabhu
+  collaborator_id: jyothi-prabhu
   focus: Breast-cancer plasticity and endocrine-therapy resistance
   coadvised_students: []
   grants: []
 
 - id: mohit-ramray-bhat
   pair_id: mohit-ramray-bhat
-  faculty_id: ramray-bhat
+  collaborator_id: ramray-bhat
   focus: Joint focus areas pending verification
   coadvised_students: []
   grants: []

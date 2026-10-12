@@ -2,7 +2,7 @@
 title: Events
 permalink: /events/
 nav: true
-nav_order: 4
+nav_order: 6
 description: Events page for PHCCO.
 ---
 

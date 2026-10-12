@@ -5,9 +5,12 @@ This repository contains the Jekyll website for the Param Hansa Centre for Compu
 ## Edit people and collaborations
 
 - `_data/people.yml` stores profile details, research interests, recognitions, grants, and advising records.
-- `_data/collaborations.yml` defines Mohit Kumar Jolly's pairwise faculty pages.
+- `_data/collaborations.yml` defines Mohit Kumar Jolly's pairwise collaboration pages.
 - `_data/joint_publications.yml` stores joint publications grouped by collaborator; the layouts group them by year automatically.
+- `_data/research_themes.yml` provides the four illustrated research themes.
 - `_pages/faculty/`, `_pages/students/`, and `_pages/collaborations/` contain the public profile routes.
+
+The collaboration map is a responsive equirectangular SVG generated from Natural Earth public-domain geometry. Faculty marker positions live in `_data/people.yml`. Theme artwork lives in `assets/images/research/`.
 
 Only add grants, advising relationships, contact details, and recognitions when an authoritative source is available. Publication entries should include a DOI whenever possible.
 

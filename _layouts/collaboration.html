@@ -2,8 +2,13 @@
 layout: default
 ---
 {% assign mohit = site.data.people | where: 'id', 'mohit-kumar-jolly' | first %}
-{% assign collaborator = site.data.people | where: 'id', page.faculty_id | first %}
+{% assign collaborator = site.data.people | where: 'id', page.collaborator_id | first %}
 {% assign collaboration = site.data.collaborations | where: 'id', page.collaboration_id | first %}
+{% if collaborator.kind == 'faculty' %}
+  {% capture collaborator_path %}/faculty/{{ collaborator.id }}/{% endcapture %}
+{% else %}
+  {% capture collaborator_path %}/students/{{ collaborator.id }}/{% endcapture %}
+{% endif %}
 
 <article class="collaboration-page">
   <header class="collaboration-hero">
@@ -12,14 +17,14 @@ layout: default
       <span>{{ mohit.name }}</span>
     </a>
     <div class="collaboration-mark" aria-hidden="true">×</div>
-    <a href="{{ '/faculty/' | append: collaborator.id | append: '/' | relative_url }}" class="collaborator-person">
+    <a href="{{ collaborator_path | relative_url }}" class="collaborator-person">
       {% include person-photo.html person=collaborator compact=true %}
       <span>{{ collaborator.name }}</span>
     </a>
   </header>
 
   <div class="collaboration-heading">
-    <p class="eyebrow">Faculty collaboration</p>
+    <p class="eyebrow">Research collaboration</p>
     <h1>{{ mohit.name }} + {{ collaborator.name }}</h1>
     <p>{{ collaboration.focus }}</p>
   </div>

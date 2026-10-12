@@ -2,7 +2,8 @@
 title: Student Network
 permalink: /student-network/
 nav: true
-nav_order: 3
+nav_order: 4
+nav_label: Students
 description: Student network page for PHCCO.
 ---
 

@@ -13,9 +13,9 @@ description: Student profile for Sarthak Sahoo.
 </section>
 
 <section class="record-section">
-  <h2>Faculty collaborations represented in this publication set</h2>
+  <h2>Research collaborators represented in this publication set</h2>
   <div class="collaboration-index">
-    <a href="{{ '/faculty/paras-jain/' | relative_url }}"><strong>Paras Jain</strong><span>Joint authorship represented in the listed records</span></a>
+    <a href="{{ '/students/paras-jain/' | relative_url }}"><strong>Paras Jain</strong><span>Joint authorship represented in the listed records</span></a>
     <a href="{{ '/faculty/jason-george/' | relative_url }}"><strong>Jason George</strong><span>Joint authorship represented in the listed records</span></a>
     <a href="{{ '/faculty/anish-thomas/' | relative_url }}"><strong>Anish Thomas</strong><span>Joint authorship represented in the listed records</span></a>
     <a href="{{ '/faculty/jyothi-prabhu/' | relative_url }}"><strong>Jyothi Prabhu</strong><span>Joint authorship represented in the listed records</span></a>

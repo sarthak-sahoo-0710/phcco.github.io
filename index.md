@@ -10,28 +10,38 @@ description: PHCCO website home page.
 <section class="home-intro">
   <p class="eyebrow">Param Hansa Centre for Computational Oncology</p>
   <h1>PHCCO</h1>
-  <p class="lead">A shared home for the centre's people, activities, and resources.</p>
-  <p class="intro-note">Explore faculty and student profiles, year-by-year collaboration records, events, and shared resources. Records that still require an authoritative source are clearly marked for verification.</p>
+  <p class="lead">A shared home for the centre's science, people, and collaborations.</p>
+  <p class="intro-note">Explore four research themes, faculty and student profiles, year-by-year collaboration records, events, and shared resources.</p>
 </section>
 
 <section class="home-grid" aria-label="Explore the website">
-  <a class="section-card" href="{{ '/faculty-network/' | relative_url }}">
+  <a class="section-card" href="{{ '/research/' | relative_url }}">
     <span>01</span>
+    <h2>Research Themes</h2>
+    <p>See how four connected questions shape the centre's science.</p>
+  </a>
+  <a class="section-card" href="{{ '/faculty-network/' | relative_url }}">
+    <span>02</span>
     <h2>Faculty Network</h2>
-    <p>Browse six faculty profiles and pairwise collaboration pages.</p>
+    <p>Meet the five faculty members represented in the current directory.</p>
   </a>
   <a class="section-card" href="{{ '/student-network/' | relative_url }}">
-    <span>02</span>
+    <span>03</span>
     <h2>Student Network</h2>
-    <p>Explore the first student profile, publication record, and collaborations.</p>
+    <p>Explore student profiles, publication records, and research interests.</p>
+  </a>
+  <a class="section-card" href="{{ '/collaborations/' | relative_url }}">
+    <span>04</span>
+    <h2>Collaborations</h2>
+    <p>Navigate the faculty map and open pairwise publication records.</p>
   </a>
   <a class="section-card" href="{{ '/events/' | relative_url }}">
-    <span>03</span>
+    <span>05</span>
     <h2>Events</h2>
     <p>Find centre seminars, workshops, and programme details.</p>
   </a>
   <a class="section-card" href="{{ '/resources/' | relative_url }}">
-    <span>04</span>
+    <span>06</span>
     <h2>Resources</h2>
     <p>Find source profiles, publication links, data, software, and teaching materials.</p>
   </a>

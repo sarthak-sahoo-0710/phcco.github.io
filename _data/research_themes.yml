@@ -1,0 +1,35 @@
+- id: cell-state-plasticity
+  number: "01"
+  title: Cell-state plasticity
+  tagline: How cancer cells change their identity
+  image: /assets/images/research/cell-state-plasticity.webp
+  alt: Illustration of cells moving through a landscape of different shapes and states
+  description: >-
+    Cancer cells do not always stay in one fixed state. They can move along a spectrum of epithelial, hybrid, and mesenchymal programmes, changing how they grow, migrate, interact with immunity, and respond to treatment. We study the regulatory circuits and environmental signals that make these changes possible—and what may push cells into, or out of, high-risk states.
+
+- id: tumour-evolution
+  number: "02"
+  title: Tumour evolution and treatment resistance
+  tagline: Why the same treatment can produce different futures
+  image: /assets/images/research/tumour-evolution.webp
+  alt: Branching tumour cell lineages responding differently to several treatments
+  description: >-
+    A tumour is an evolving population rather than a uniform mass. Genetic variation, reversible cell states, and competition under treatment can allow some cells to survive and repopulate. We use evolutionary thinking and quantitative models to understand these trajectories and to explore treatment strategies that may delay or prevent resistance.
+
+- id: metastatic-journeys
+  number: "03"
+  title: Metastatic journeys
+  tagline: How cancer spreads—and why it settles in particular organs
+  image: /assets/images/research/metastatic-journeys.webp
+  alt: Tumour cells travelling through a blood vessel toward different organ environments
+  description: >-
+    Metastasis is a sequence of difficult steps: cells leave a primary tumour, survive in circulation, enter a distant tissue, and adapt to a new environment. We investigate the cell states and tissue signals behind this journey, including organ tropism—the non-random tendency of some cancers to colonise particular organs.
+
+- id: predictive-oncology
+  number: "04"
+  title: Predictive computational oncology
+  tagline: Turning biological mechanisms and patient data into testable forecasts
+  image: /assets/images/research/predictive-oncology.webp
+  alt: A molecular network merging with mathematical curves and patient data
+  description: >-
+    Computational models let researchers connect molecular networks, experiments, and patient-derived data within a common framework. These models do not replace experiments or clinical judgement; they sharpen hypotheses, reveal hidden mechanisms, and help prioritise which interventions and treatment schedules should be tested next.

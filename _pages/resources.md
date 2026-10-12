@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 nav: true
-nav_order: 5
+nav_order: 7
 description: Resources page for PHCCO.
 ---
 
@@ -16,7 +16,7 @@ description: Resources page for PHCCO.
   </article>
   <article class="resource-card">
     <p class="card-label">Publication records</p>
-    <h3><a href="{{ '/faculty-network/' | relative_url }}">Faculty collaborations</a></h3>
+    <h3><a href="{{ '/collaborations/' | relative_url }}">Collaboration records</a></h3>
     <p>Year-grouped joint publications with DOI links for verification.</p>
   </article>
   <article class="resource-card">

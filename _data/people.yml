@@ -9,6 +9,9 @@
   photo: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6fK8E-gAAAAJ&citpid=1
   initials: MJ
   organiser: true
+  map_location: Bengaluru, India
+  map_x: 71.3
+  map_y: 60.0
   interests:
     - Computational oncology
     - Cancer systems biology
@@ -21,8 +24,8 @@
 
 - id: paras-jain
   name: Paras Jain
-  kind: faculty
-  role: Faculty network member
+  kind: student
+  role: Student network member
   affiliation: See linked Google Scholar profile
   email: Not listed in the supplied Scholar source
   scholar_url: https://scholar.google.com/citations?hl=en&user=8TEgMyMAAAAJ
@@ -47,6 +50,9 @@
   scholar_id: qFGeJ7EAAAAJ
   photo: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qFGeJ7EAAAAJ&citpid=1
   initials: JG
+  map_location: College Station, Texas, USA
+  map_x: 23.2
+  map_y: 39.2
   interests:
     - Regulatory-network modelling
     - Epithelial–mesenchymal plasticity
@@ -66,6 +72,9 @@
   scholar_id: sE_ou3sAAAAJ
   photo: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sE_ou3sAAAAJ&citpid=1
   initials: AT
+  map_location: Bethesda, Maryland, USA
+  map_x: 29.0
+  map_y: 32.0
   interests:
     - Small-cell lung cancer
     - Metastatic organotropism
@@ -85,6 +94,9 @@
   scholar_id: 9m500mwAAAAJ
   photo: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9m500mwAAAAJ&citpid=1
   initials: JP
+  map_location: Bengaluru, India
+  map_x: 75.3
+  map_y: 56.0
   interests:
     - Breast cancer
     - Endocrine-therapy resistance
@@ -104,6 +116,9 @@
   scholar_id: wsHX7U0AAAAJ
   photo: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wsHX7U0AAAAJ&citpid=1
   initials: RB
+  map_location: Bengaluru, India
+  map_x: 76.8
+  map_y: 64.0
   interests:
     - Research interests pending verification from the supplied profile
   source_note: No joint publication with Mohit Kumar Jolly was present in the currently available bibliography; the Scholar profile is linked for verification.
